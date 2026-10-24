@@ -11,15 +11,15 @@ The XC9572XL CPLD Developent Board is a custom hardware project intended to make
 
 ### 3D PCB View
 
-![PCB 3D View](docs/image/pcb_3d.png)
+![PCB 3D View](image/pcb_3d.png)
 
 ### PCB Layout
 
-![PCB Layout](docs/image/pcb_layout.png)
+![PCB Layout](image/pcb_layout.png)
 
 ### Circuit Schematic
 
-![Circuit Schematic](docs/image/pcb_draw.png)
+![Circuit Schematic](image/pcb_draw.png)
 
 ## Features
 
